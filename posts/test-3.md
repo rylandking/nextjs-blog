@@ -8,9 +8,7 @@ date: '2020-03-01'
 ### H3
 #### H4
 ##### H5
-###### hahaha
-
-Alternatively, for H1 and H2, an underline-ish style:
+###### lalalal
 
 Alt-H1
 ======
