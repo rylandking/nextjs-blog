@@ -7,13 +7,13 @@ Wahoo! *Wahoo!* **Wahoo!**
 
 - Wahoo! [*Wahoo!*][1] **Wahoo!**
 - Wahoo! *Wahoo!* **Wahoo!**
-- aWahoo! *Wahoo!* **Wahoo!**
+- New wahoo!
 
 > Email-style angle brackets are used for blockquotes.
 >> You can also nest them.
 >>
 > * You can quote a list.
-> * Etc.
+> * Etc. 
 
 > To break the nested blockquote, add a space between lines.
 
